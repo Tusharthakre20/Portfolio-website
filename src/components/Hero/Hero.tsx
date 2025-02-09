@@ -8,6 +8,7 @@ import githubIcon from '../../assets/github.svg'
 import whatsapp from '../../assets/whatsapp.svg'
 import Hello from '../../assets/Hello.gif'
 import telegram from '../../assets/telegram.svg'
+import instagramIcon from '../../assets/instagram.svg'
 export function Hero() {
   return (
     <Container id="home">
@@ -45,6 +46,13 @@ export function Hero() {
           <img src={githubIcon} alt="GitHub" />
         </a>
         <a
+                  href="https://www.instagram.com/tushar.thakre.1088/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <img src={instagramIcon} alt="Instagram" />
+                </a>
+        {/* <a
           href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak"
           target="_blank"
           rel="noreferrer"
@@ -57,7 +65,9 @@ export function Hero() {
           rel="noreferrer"
         >
           <img src={telegram} alt="telegram" />
-        </a></div>
+        </a> */}
+        
+        </div>
         </ScrollAnimation>
       </div>
       <div className="hero-image">
