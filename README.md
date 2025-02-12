@@ -1,6 +1,6 @@
 # Portfolio of Tushar Thakre
 
-<img src ="https://github.com/Tusharthakre20CodeVinayak/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.vinayaksingh.in.png" />
+<img src ="https://github.com/Tusharthakre20CodeTushar Thakre/blob/5920a79f4c5977332a67caf91125241cf0fc46b5/www.Tushar.in.png" />
  
 This project was created with CRA (Create React App)
 

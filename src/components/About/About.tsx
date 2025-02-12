@@ -1,5 +1,5 @@
 import { Container } from "./styles";
-import VinayakSingh from "../../assets/photo.webp";
+import Tushar from "../../assets/photo.webp";
 import wordpress from "../../assets/wordpress.svg";
 import shopify from "../../assets/shopify.svg";
 import htmlIcon from "../../assets/html-icon.svg";
@@ -91,7 +91,7 @@ high-quality solutions,</p></ScrollAnimation>
       </div>
       <div className="about-image">
         <ScrollAnimation animateIn="fadeInRight" delay={0.20 * 1000}>
-          <img src={VinayakSingh} alt="Tushar Thakre" />
+          <img src={Tushar} alt="Tushar Thakre" />
         </ScrollAnimation>
       </div>
     </Container>

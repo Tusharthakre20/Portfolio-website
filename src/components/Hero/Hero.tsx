@@ -53,14 +53,14 @@ export function Hero() {
                   <img src={instagramIcon} alt="Instagram" />
                 </a>
         {/* <a
-          href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Vinayak"
+          href="https://api.whatsapp.com/send/?phone=%2B919630576848&text=Hello+Tushar Thakre"
           target="_blank"
           rel="noreferrer"
         >
           <img src={whatsapp} alt="Whatsapp" />
         </a>
         <a
-          href="https://t.me/CodeVinayak"
+          href="https://t.me/CodeTushar Thakre"
           target="_blank"
           rel="noreferrer"
         >
