@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-website/static/css/main.039bf95e.css",
-    "main.js": "/Portfolio-website/static/js/main.7bc8bcb7.js",
+    "main.js": "/Portfolio-website/static/js/main.c2207043.js",
     "static/media/photo.webp": "/Portfolio-website/static/media/photo.aa6e6db52a2583541d4c.webp",
     "static/media/Hello.gif": "/Portfolio-website/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Tushar_Thakre_software_developer.pdf": "/Portfolio-website/static/media/Tushar_Thakre_software_developer.eb292dd1ae656b1ace18.pdf",
@@ -17,7 +17,6 @@
     "static/media/shopify.svg": "/Portfolio-website/static/media/shopify.162913e43c02c125fd0720d80fc0dba3.svg",
     "static/media/github.svg": "/Portfolio-website/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
     "static/media/email-icon.svg": "/Portfolio-website/static/media/email-icon.a83578f914460e952501546655b76165.svg",
-    "static/media/external-link.svg": "/Portfolio-website/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
     "static/media/html-icon.svg": "/Portfolio-website/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
     "static/media/wordpress.svg": "/Portfolio-website/static/media/wordpress.3bcdd91b50514041e84ea420c14b4812.svg",
     "static/media/css-icon.svg": "/Portfolio-website/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
@@ -25,10 +24,10 @@
     "static/media/js-icon.svg": "/Portfolio-website/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/Portfolio-website/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "main.039bf95e.css.map": "/Portfolio-website/static/css/main.039bf95e.css.map",
-    "main.7bc8bcb7.js.map": "/Portfolio-website/static/js/main.7bc8bcb7.js.map"
+    "main.c2207043.js.map": "/Portfolio-website/static/js/main.c2207043.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.7bc8bcb7.js"
+    "static/js/main.c2207043.js"
   ]
 }
