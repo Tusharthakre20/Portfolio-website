@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/Portfolio-website/static/css/main.039bf95e.css",
-    "main.js": "/Portfolio-website/static/js/main.8d4aa1f8.js",
+    "main.js": "/Portfolio-website/static/js/main.7b8f0873.js",
     "static/media/photo.webp": "/Portfolio-website/static/media/photo.aa6e6db52a2583541d4c.webp",
     "static/media/Hello.gif": "/Portfolio-website/static/media/Hello.d93720933c608f6178fb.gif",
-    "static/media/Tushar_Thakre_FrontEnd.pdf": "/Portfolio-website/static/media/Tushar_Thakre_FrontEnd.77bbba9006fc625ae640.pdf",
+    "static/media/Tushar_Thakre_Frontend_developer.pdf": "/Portfolio-website/static/media/Tushar_Thakre_Frontend_developer.92280b9e14814ff39628.pdf",
     "static/media/illustration.svg": "/Portfolio-website/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/sass-icon.svg": "/Portfolio-website/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/node-icon.svg": "/Portfolio-website/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
@@ -25,10 +25,10 @@
     "static/media/js-icon.svg": "/Portfolio-website/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
     "static/media/vue-icon.svg": "/Portfolio-website/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
     "main.039bf95e.css.map": "/Portfolio-website/static/css/main.039bf95e.css.map",
-    "main.8d4aa1f8.js.map": "/Portfolio-website/static/js/main.8d4aa1f8.js.map"
+    "main.7b8f0873.js.map": "/Portfolio-website/static/js/main.7b8f0873.js.map"
   },
   "entrypoints": [
     "static/css/main.039bf95e.css",
-    "static/js/main.8d4aa1f8.js"
+    "static/js/main.7b8f0873.js"
   ]
 }
