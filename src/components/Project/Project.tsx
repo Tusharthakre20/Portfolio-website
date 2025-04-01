@@ -77,15 +77,15 @@ export function Project() {
             <header>
               <svg width="50" xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" fill="none" stroke="#23ce6b " strokeWidth="1" strokeLinecap="round" strokeLinejoin="round"><title>Folder</title> <path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path> </svg>
               <div className="project-links">
-                <a href="https://github.com/Tusharthakre20/UrbanCart" target="_blank" rel="noreferrer">
+                <a href="https://github.com/Tusharthakre20/Urbankart" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://tusharthakre20.github.io/UrbanCart/" target="_blank" rel="noreferrer">
+                <a href="https://urbankart.vercel.app/" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
             <div className="body">
-              <h3>UrbanCart( Personal Project )</h3>
-              <p>UrbanCart is a fully responsive shopping platform built with modern technologies. We offer a wide range of products, including fashion for men and women, electronics, and jewelry. Our goal is to provide a smooth and enjoyable shopping experience with high-quality products and excellent customer service.</p></div>
+              <h3>UrbanKart( Personal Project )</h3>
+              <p>Urbankart is a fully responsive shopping platform built with modern technologies. We offer a wide range of products, including fashion for men and women, electronics, and jewelry. Our goal is to provide a smooth and enjoyable shopping experience with high-quality products and excellent customer service.</p></div>
               <footer>
               <ul className="tech-list">
                 <li>React JS</li>
@@ -103,7 +103,7 @@ export function Project() {
               <div className="project-links">
                 <a href="https://github.com/Tusharthakre20/magic-card-game" target="_blank" rel="noreferrer">
                   <img src={githubIcon} alt="Visit site" /> </a>
-                <a href="https://card-match-game-hritik-sharma.vercel.app/" target="_blank" rel="noreferrer">
+                <a href="https://magic-card-game-fi6fnv7mb-tusharthakre20s-projects.vercel.app" target="_blank" rel="noreferrer">
                   <img src={externalLink} alt="Visit site" /></a>
               </div>
             </header>
